@@ -57,3 +57,7 @@ df_titles.to_csv('../crawling_data/naver_headline_news_1_{}.csv'.format(
 time.sleep(30)
 driver.close()
 
+//*[@id="newsct"]/div[5]/div/div[1]/div[1]/ul/li[1]/div/div/div[2]/a/strong
+//*[@id="newsct"]/div[4]/ul/li[1]/a
+//*[@id="ad-element-unit"]/a/div/div[2]/div/div/div/strong
+//*[@id="newsct"]/div[2]/div/div[2]/ul/li[1]/div[2]/a
